@@ -61,7 +61,8 @@ Healthcare-focused AI solution for improving hospital workflow efficiency.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasaYK17&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasaYK17&show_icons=true&theme=default)
+
 
 
 
