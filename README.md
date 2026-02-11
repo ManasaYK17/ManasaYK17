@@ -43,10 +43,10 @@
 
 ## 🚀 Featured Projects
 
-### 🧾 Daily Spending Limit Tracker
+### 🧾BudgetBuddy
 Python-based application to track expenses and manage daily spending limits.
 
-### 🤖 AI-Driven Mental Health Analyser
+### 🤖 MindNova
 AI-powered system designed to analyse mental health indicators using Python.
 
 ### 🏥 Careflow-AI
