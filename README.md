@@ -9,23 +9,23 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 ### ⚡ Frameworks & Libraries
